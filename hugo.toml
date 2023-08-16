@@ -48,6 +48,10 @@ theme = "minimal-bootstrap-hugo-theme"
   name = "Résumé"
   url = "/resume/"
   weight = 4
+    [[menu.nav]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 5
 
 [markup]
   defaultMarkdownHandler = "goldmark"
