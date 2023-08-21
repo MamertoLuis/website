@@ -3,22 +3,16 @@ date = "2023-07-19"
 title = "About"
 +++
 
-I am 25 years long seasoned banker. I work in the rural communities as President of a Rural Bank.
+I am an experienced banker with a 25-year track record. Currently, I serve as the President of a Rural Bank, focusing on rural communities.
 
-I think I am a very competent with my job having mastered leadership and managerial skills necessary.
+Through the years, I have honed my leadership and managerial skills, making me highly proficient in my role. I excel in tasks involving Excel spreadsheets, such as crafting reports and developing policies. Moreover, I possess an extensive understanding of computers and programming.
 
-I can also do things with Excel spreadsheets including writing reports and policy development.
+My educational background encompasses Economics and Law, though I haven't pursued a master's degree or passed the Bar exam.
 
-I also have extensive knowledge on computers and programming.
+Family-wise, I am happily married and a proud parent of two wonderful children aged 16 and 10.
 
-I am a graduate of Economics and Law but I never taken a masters degree or passed the Bar.
+My interests span a wide range, from delving into subjects like philosophy, science, and spirituality. As for leisure activities, I'm deeply engaged in programming, cultivating mushrooms, and practicing hydroponics.
 
-I am married and have two lovely children both 16 and 10 years of age. 
+Unashamedly, I identify as a Geek. My literary preferences lean towards science fiction novels, particularly the works of Isaac Asimov and the Dune series.
 
-My varied interests involve diving into topics like philosophy, science and spirituality.
-
-My hobbies and projects include programming, growing mushrooms, hydroponics. 
-
-I am also a Geek and I love reading science fiction novels like Issac Asimov books and Dune series.
-
-In the future I would like to financially independent, travel the world with my family or nature treking solo.
+Looking ahead, I aspire to achieve financial independence. Ultimately, I envision embarking on global journeys with my family and undertaking solitary nature treks.
